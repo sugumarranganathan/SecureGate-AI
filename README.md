@@ -1,6 +1,10 @@
 #SecureGate-AI
 
 https://colab.research.google.com/drive/1545N8sagcHlyCOp4pSPddM11Ed2oiX2w#scrollTo=TYEfILB0bF5e
+(upload image option only)
+
+https://colab.research.google.com/drive/1K_Mu2gcfGgWDn93grAnWx5e3u-nHZR5r#scrollTo=aYJysi1Xb2J2
+(upload image and direct live webcam option)
 
 
 # SecureGate AI
